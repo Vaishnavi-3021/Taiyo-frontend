@@ -5,6 +5,7 @@ This is a contact management app with Charts and Maps using ReactJS, TypeScript,
 
 GITHUB LINK:-[Vaishnavi-3021/Taiyo-FrontEndTask (github.com)](https://github.com/Vaishnavi-3021/Taiyo-FrontEndTask)
 
+DEPLOY LINK:-[taiyo-frontend-lepyvwfl6-vaishnavi-3021s-projects.vercel.app](https://taiyo-frontend-lepyvwfl6-vaishnavi-3021s-projects.vercel.app)
 
 
 ### Objectives Met:-
